@@ -10,7 +10,7 @@
 </ul>
 
 <div>
-  Notion : <a href="#">링크</a><br>
+  Notion : <a href="https://www.notion.so/e386a9f294d3405da374fb2d850b49fa?pvs=4">링크</a><br>
   Youtube : <a href="https://www.youtube.com/channel/UCLW1WoUOPQnU9VNn5HXVcAw">링크</a>
 </div>
 
