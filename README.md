@@ -11,7 +11,7 @@
 
 <div>
   Notion : <a href="#">링크</a><br>
-  Youtube : <a href="#">링크</a>
+  Youtube : <a href="https://www.youtube.com/channel/UCLW1WoUOPQnU9VNn5HXVcAw">링크</a>
 </div>
 
 <div class="header">
