@@ -20,7 +20,7 @@
 
 <div>
   Language : C#, C++<br>
-  Tool : Unity
+  Tool : Unity, Winform
 </div>
 
 <div class="header">
@@ -31,7 +31,11 @@
     <li>2024 졸업 프로젝트 <b>Board Knight</b> <a href="https://github.com/OnlyMutalisk/2024-Unity.Capstone">GitHub</a> 2023.12 ~ / Unity 2D, Android, SRPG / <a href="https://youtu.be/tLCPic1IDGY?feature=shared">YouTube</a> / <b>기획중</b></li>
     <li>2023 동아리 겨울방학 프로젝트 <b>Wave : 파도의 파고</b> <a href="https://github.com/OnlyMutalisk/2024-Unity.EXP.Wave">GitHub</a> 2023.12 ~ / Unity 2D, Windows, 퍼즐 / <a href="https://www.youtube.com/watch?v=urHN5A9kBh4">YouTube</a> / <b>개발중</b></li>
     <li>2023 동아리 1학기 프로젝트 <b>홀로 잠 못 드는 그대를 위해</b> <a href="https://github.com/OnlyMutalisk/2023-Unity.EXP.Escape">GitHub</a> 2023.03 ~ / Unity 2D, Android, 방탈출 / <a href="https://youtu.be/qtqSEp7TAGI?feature=shared">YouTube</a> / <b>개발중</b></li>
-
-
 </div>
+
+<div class="header">
+  <h1>포폴로 넣을까~말까~</h1>
+</div>
+    <li>2023 기계학습기초 팀프로젝트 <b>LSTM 주가예측</b> <a href="https://colab.research.google.com/drive/1iexuQiFnbPb1AgQ2h47aQsGlHR4OvrZg?usp=sharing">Google CoLab</a> 2023.10 ~ 2023.11 / Google CoLab, Tensorflow, 주가예측 / <b>개발완료</b></li>
+    <li>2021 개인 프로젝트 <b>AutoTrade</b> / 2021.06 ~ 2022.03 / Winform, Upbit API, 자동매매 / 개인 사용중 (배포 X) / 스파게티 그 잡채 / <b>개발완료</b></li>
 </body>
