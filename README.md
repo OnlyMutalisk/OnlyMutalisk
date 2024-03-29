@@ -10,7 +10,7 @@
 </ul>
 
 <div>
-  Notion : <a href="https://www.notion.so/487ee1fe554b440a85a5e2f0f801a762?pvs=4">링크</a><br>
+  Notion : <a href="https://pyrite-musician-6c5.notion.site/487ee1fe554b440a85a5e2f0f801a762?pvs=4">링크</a><br>
   Youtube : <a href="https://www.youtube.com/channel/UCLW1WoUOPQnU9VNn5HXVcAw">링크</a>
 </div>
 
