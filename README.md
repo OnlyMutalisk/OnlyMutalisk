@@ -34,7 +34,7 @@
 </div>
 
 <div class="header">
-  <h1>포폴로 넣을까~말까~</h1>
+  <h1>그외</h1>
 </div>
     <li>2023 기계학습기초 팀프로젝트 <b>LSTM 주가예측</b> <a href="https://colab.research.google.com/drive/1iexuQiFnbPb1AgQ2h47aQsGlHR4OvrZg?usp=sharing">Google CoLab</a> 2023.10 ~ 2023.11 / Google CoLab, Tensorflow, 주가예측 / <b>개발완료</b></li>
     <li>2021 개인 프로젝트 <b>AutoTrade</b> / 2021.06 ~ 2022.03 / Winform, Upbit API, 자동매매 / 개인 사용중 (배포 X) / 스파게티 그 잡채 / <b>개발완료</b></li>
