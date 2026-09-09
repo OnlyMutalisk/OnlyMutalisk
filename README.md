@@ -4,7 +4,6 @@
 </div>
 
 <ul class="list-style">
-  <li>홍익대학교 21학번 컴퓨터공학과 재학</li>
   <li>홍익대학교 21학번 컴퓨터공학과 졸업</li>
 <li>홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2023.03 ~</li>
 <li>Unity, C# 개발</li>
