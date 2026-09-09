@@ -4,14 +4,12 @@
 </div>
 
 <ul class="list-style">
-  <li>홍익대학교 21학번 컴퓨터공학과 졸업</li>
-  <li>홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2023.03 ~</li>
-  <li>Unity, C# 개발</li>
+  <li>홍익대학교 서울캠퍼스 컴퓨터공학과 졸업</li>
+  <li>홍익대학교 게임 개발 동아리 ExP</li>
 </ul>
 
 <div>
-  Notion : <a href="https://pyrite-musician-6c5.notion.site/487ee1fe554b440a85a5e2f0f801a762?pvs=4](https://app.notion.com/p/3ccfb8de35928074b287e5798a79f324?source=copy_link">링크</a><br>
-  Youtube : <a href="https://www.youtube.com/channel/UCLW1WoUOPQnU9VNn5HXVcAw">링크</a>
+  노션 <a href="https://pyrite-musician-6c5.notion.site/487ee1fe554b440a85a5e2f0f801a762?pvs=4](https://app.notion.com/p/3ccfb8de35928074b287e5798a79f324?source=copy_link">링크</a>
 </div>
 
 <div class="header">
@@ -19,8 +17,8 @@
 </div>
 
 <div>
-  Language : C#, C++<br>
-  Tool : Unity, Winform
+  언어 : C#<br>
+  도구: 유니티
 </div>
 
 <div class="header">
